@@ -13,5 +13,14 @@ public class Comment {
         this.comentarios = comentarios;
     }
 
+    //GET SET
 
+
+    public String getComentarios() {
+        return comentarios;
+    }
+
+    public void setComentarios(String comentarios) {
+        this.comentarios = comentarios;
+    }
 }
